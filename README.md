@@ -108,7 +108,7 @@ OpenAI API · embeddings/RAG · prompt tooling · evaluation & guardrails
 
 ## Performance, reliability & cost wins
 
-**Response time (p95/p99)**
+**Response time (p95/p90)**
 
 * Trim TTFB/LCP with edge caching & smart revalidation (SSR/ISR in Next.js), prefetch/preload, and route‑level data loaders.
 * Eliminate N+1s & heavy joins; add covering indexes; paginate/stream results where payloads are large.
