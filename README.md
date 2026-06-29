@@ -148,7 +148,7 @@ OpenAI API · embeddings/RAG · prompt tooling · evaluation & guardrails
 ## 📫 Say hi
 
 * **Email:** *[zainansarp41@gmail.com](mailto:zainansarp41@gmail.com)* <!-- replace -->
-* **LinkedIn:** *[Zain Ansari](https://www.linkedin.com/in/zainansari439)* <!-- replace -->
+* **LinkedIn:** *[Zain Ansari](https://www.linkedin.com/in/zain-ul-abidin-06b2893a4/)* <!-- replace -->
 
 <!--
 Notes for future you:
