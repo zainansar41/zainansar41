@@ -16,7 +16,7 @@ I design systems that scale smoothly, keep costs sane, and feel great to use.
 
 ---
 
-## 🧩 Real‑world problems I solve
+## Real‑world problems I solve
 
 ### 1) Multi‑tenant at scale
 
@@ -78,7 +78,7 @@ I design systems that scale smoothly, keep costs sane, and feel great to use.
 
 ---
 
-## 🧰 Toolbox (day‑to‑day)
+## Toolbox (day‑to‑day)
 
 **Frontend**
 React · Next.js · Vite · Tailwind · shadcn/ui · Recharts/ApexCharts
@@ -97,7 +97,7 @@ OpenAI API · embeddings/RAG · prompt tooling · evaluation & guardrails
 
 ---
 
-## 🧭 How I work
+## How I work
 
 * **Design for tenancy first.** Isolation, quotas, and auditability are features.
 * **Measure before optimizing.** Profiles, budgets, and SLIs/SLOs guide changes.
@@ -106,7 +106,7 @@ OpenAI API · embeddings/RAG · prompt tooling · evaluation & guardrails
 
 ---
 
-## ⚡ Performance, reliability & cost wins
+## Performance, reliability & cost wins
 
 **Response time (p95/p99)**
 
